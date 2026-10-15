@@ -1,0 +1,6 @@
+[submodule "apps/api"]
+	path = apps/api
+	url = https://github.com/lohit-dev/bountyline-api.git
+[submodule "apps/dashboard"]
+	path = apps/dashboard
+	url = https://github.com/lohit-dev/bountyline-dashboard.git
